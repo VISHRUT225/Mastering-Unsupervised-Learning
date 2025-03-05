@@ -78,27 +78,27 @@ Welcome to the **Unsupervised Learning Mastery** project! This repository demons
     *   Detailed analysis and insights are available in the report/ folder.
 
 
-## 🛠️ Future Improvements
+🛠️ Future Improvements
 -----------------------
 
-*   🚀 Optimize training time using GPU-enabled kernels or faster libraries (e.g., LightGBM).
+*   🚀 Explore additional clustering validation metrics (e.g., Davies-Bouldin Index).
     
-*   📈 Explore additional resampling techniques or advanced ensemble methods.
+*   📈 Tune hyperparameters further using advanced optimization methods like Bayesian Optimization.
     
-*   🔍 Further fine-tune models with Bayesian Optimization.
+*   🔍 Integrate interactive visualizations using Plotly for more dynamic exploration.
     
 
-## 📜 License
+📜 License
 ----------
 
-This project is licensed under the **MIT License**. Feel free to use and modify the code as needed.
+This project is licensed under the **MIT License**. Feel free to use and modify as needed.
 
-## 🤝 Contributing
+🤝 Contributing
 ---------------
 
-Pull requests are welcome! 🌟
+Contributions are welcome! 🌟
 
-*   Fork the repository, create a new branch for your changes, and submit a PR for review.
+*   Fork the repository, create a new branch for your changes, and submit a pull request.
     
 *   Please ensure your changes are well-documented and tested.
     
